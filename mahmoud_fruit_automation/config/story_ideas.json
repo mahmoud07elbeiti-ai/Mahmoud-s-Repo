@@ -1,0 +1,65 @@
+{
+  "characters": {
+    "banana": "Banana: expressive golden-yellow anthropomorphic banana, consistent face and body, dramatic but family-friendly",
+    "strawberry": "Strawberry: expressive red strawberry character with green leafy top, consistent face and body, dramatic but family-friendly",
+    "apple": "Apple: shiny red anthropomorphic apple, expressive eyes, consistent character design"
+  },
+  "ideas": [
+    {
+      "id": "F001",
+      "title": "The Broke Banana Is Secretly Rich",
+      "hook": "Everyone laughed when Banana couldn't pay for lunch—until a black luxury car pulled up.",
+      "characters": [
+        "banana",
+        "strawberry"
+      ],
+      "premise": "Banana is treated like he's broke, but he has secretly built a successful business. Strawberry doubts him until the truth is revealed.",
+      "twist": "The driver opens the door and calls Banana 'Mr. CEO.'"
+    },
+    {
+      "id": "F002",
+      "title": "Strawberry Catches Banana Lying",
+      "hook": "Strawberry found one receipt that exposed Banana's whole story.",
+      "characters": [
+        "strawberry",
+        "banana"
+      ],
+      "premise": "Banana gives conflicting explanations about where he was. Strawberry discovers a receipt that contradicts his story.",
+      "twist": "The receipt reveals a surprise that neither of them expected."
+    },
+    {
+      "id": "F003",
+      "title": "The Poor Cousin Was a Millionaire",
+      "hook": "They mocked Apple for wearing old clothes—then Apple bought the restaurant.",
+      "characters": [
+        "apple",
+        "banana",
+        "strawberry"
+      ],
+      "premise": "Apple's relatives judge him by his appearance, not realizing he owns a thriving restaurant group.",
+      "twist": "The manager announces that Apple is the new owner."
+    },
+    {
+      "id": "F004",
+      "title": "Banana's Best Friend Betrayed Him",
+      "hook": "Banana trusted his best friend with one secret. By sunset, everyone knew.",
+      "characters": [
+        "banana",
+        "apple"
+      ],
+      "premise": "Apple shares Banana's private business plan to impress others, then realizes the damage he caused.",
+      "twist": "Banana reveals he has proof and gives Apple one chance to make things right."
+    },
+    {
+      "id": "F005",
+      "title": "Strawberry's Secret Double Life",
+      "hook": "By day, Strawberry was broke. At night, she ran the city's biggest company.",
+      "characters": [
+        "strawberry",
+        "banana"
+      ],
+      "premise": "Strawberry hides her success to learn who genuinely cares about her, but the secret becomes harder to keep.",
+      "twist": "A televised award ceremony reveals her identity in front of everyone."
+    }
+  ]
+}
