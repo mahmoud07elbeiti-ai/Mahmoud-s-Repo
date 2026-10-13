@@ -1,0 +1,28 @@
+
+name: AI Fruit Video Automation
+
+on:
+  workflow_dispatch:
+
+jobs:
+  generate-story:
+    runs-on: ubuntu-latest
+
+    defaults:
+      run:
+        working-directory: mahmoud_fruit_automation
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Generate story
+        run: python scripts/generate_story.py
